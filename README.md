@@ -1,3 +1,5 @@
+oii seja bem vindo ao meu perfil :)
+
 Meu nome é lara
 
 - Estou estudando na [Alura](https://www.alura.com.br)
